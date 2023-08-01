@@ -298,10 +298,4 @@ echo "" >> $logfile
 echo "backup_dbs_by_host.ksh $hname is done : " `date` >> $logfile
 exit $rc
 
--- 
-Regards,
-
-Aaron Beard
-ISD Engineer - DBA Database Services
-Mobile: 360-924-1337 
 
